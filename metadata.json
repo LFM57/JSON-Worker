@@ -1,0 +1,5 @@
+{
+  "name": "JSON Data Analyzer",
+  "description": "An interactive tool to upload, parse, and analyze JSON documents. Users can import their JSON data, select categories, and apply sorting and filtering to view the information in a structured table format.",
+  "requestFramePermissions": []
+}
